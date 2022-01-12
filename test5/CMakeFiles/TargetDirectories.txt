@@ -1,0 +1,14 @@
+/home/vnpy/test5/CMakeFiles/Demo.dir
+/home/vnpy/test5/CMakeFiles/edit_cache.dir
+/home/vnpy/test5/CMakeFiles/rebuild_cache.dir
+/home/vnpy/test5/CMakeFiles/list_install_components.dir
+/home/vnpy/test5/CMakeFiles/install.dir
+/home/vnpy/test5/CMakeFiles/install/local.dir
+/home/vnpy/test5/CMakeFiles/install/strip.dir
+/home/vnpy/test5/sub1/CMakeFiles/subSum.dir
+/home/vnpy/test5/sub1/CMakeFiles/edit_cache.dir
+/home/vnpy/test5/sub1/CMakeFiles/rebuild_cache.dir
+/home/vnpy/test5/sub1/CMakeFiles/list_install_components.dir
+/home/vnpy/test5/sub1/CMakeFiles/install.dir
+/home/vnpy/test5/sub1/CMakeFiles/install/local.dir
+/home/vnpy/test5/sub1/CMakeFiles/install/strip.dir

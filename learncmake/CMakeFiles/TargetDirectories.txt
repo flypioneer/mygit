@@ -1,0 +1,3 @@
+/home/vnpy/learncmake/CMakeFiles/Demo.dir
+/home/vnpy/learncmake/CMakeFiles/edit_cache.dir
+/home/vnpy/learncmake/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/home/vnpy/test6/CMakeFiles/myboost.dir
+/home/vnpy/test6/CMakeFiles/edit_cache.dir
+/home/vnpy/test6/CMakeFiles/rebuild_cache.dir

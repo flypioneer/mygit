@@ -1,0 +1,6 @@
+/home/vnpy/learncmake/CMakeFiles/testcmake/CMakeFiles/Demo.dir
+/home/vnpy/learncmake/CMakeFiles/testcmake/CMakeFiles/edit_cache.dir
+/home/vnpy/learncmake/CMakeFiles/testcmake/CMakeFiles/rebuild_cache.dir
+/home/vnpy/learncmake/CMakeFiles/testcmake/sub1/CMakeFiles/subSum.dir
+/home/vnpy/learncmake/CMakeFiles/testcmake/sub1/CMakeFiles/edit_cache.dir
+/home/vnpy/learncmake/CMakeFiles/testcmake/sub1/CMakeFiles/rebuild_cache.dir

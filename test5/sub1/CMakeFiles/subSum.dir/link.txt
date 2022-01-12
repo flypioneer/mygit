@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsubSum.a CMakeFiles/subSum.dir/sumfun.cpp.o
+/usr/bin/ranlib libsubSum.a

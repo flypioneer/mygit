@@ -1,0 +1,5 @@
+#include<iostream>
+#include<cstdlib>
+#include<ctime>
+using namespace std;
+int num;												//脠谩脨脭脤玫艗镁(脫脨脤脴脢芒脪陋脟贸碌脛禄鈧娐柯好
